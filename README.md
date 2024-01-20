@@ -22,10 +22,9 @@ The following **optional** features are implemented:
 
 Here's a walkthrough of implemented features:
 
-<img src='https://imgur.com/a/igzXPiN"' title='Video Walkthrough' width='' alt='Prework Gif' />
+<img src='https://imgur.com/a/igzXPiN' title='Video Walkthrough' width='' alt='Prework Gif' />
 
-GIF created with ...  
-<!-- Recommended tools: [ScreenToGif](https://www.screentogif.com/) for Windows
+GIF created with [ScreenToGif](https://www.screentogif.com/) for Windows
 
 ## Notes
 
