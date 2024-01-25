@@ -22,13 +22,6 @@ The following **optional** features are implemented:
 
 Here's a walkthrough of implemented features:
 [Video Walkthrough](https://imgur.com/a/EMbLwxt.gif)
-![Video Walkthrough](https://imgur.com/a/EMbLwxt.gif)
-[C:\Users\dandr\OneDrive\Desktop\FullStack-Project-1.gif]()
-![C:\Users\dandr\OneDrive\Desktop\FullStack-Project-1.gif]()
-
-![FullStack-Project-1](https://github.com/dnicholson2017/web102_prework/assets/143464047/c92debd6-2e49-4cba-9192-164cb33171e6)
-
-
 
 GIF created with [ScreenToGif](https://www.screentogif.com/) for Windows
 
