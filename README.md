@@ -22,7 +22,9 @@ The following **optional** features are implemented:
 
 Here's a walkthrough of implemented features:
 [Video Walkthrough](https://imgur.com/a/EMbLwxt.gif)
-<img src='C:\Users\dandr\OneDrive\Desktop\FullStack-Project-1.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+![Video Walkthrough](https://imgur.com/a/EMbLwxt.gif)
+[C:\Users\dandr\OneDrive\Desktop\FullStack-Project-1.gif]()
+![C:\Users\dandr\OneDrive\Desktop\FullStack-Project-1.gif]()
 
 GIF created with [ScreenToGif](https://www.screentogif.com/) for Windows
 
