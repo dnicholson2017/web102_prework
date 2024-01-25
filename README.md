@@ -22,7 +22,7 @@ The following **optional** features are implemented:
 
 Here's a walkthrough of implemented features:
 
-<blockquote class="imgur-embed-pub" lang="en" data-id="a/igzXPiN"  ><a href="//imgur.com/a/igzXPiN">Prework Gif</a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
+<img src='https://imgur.com/a/EMbLwxt' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 GIF created with [ScreenToGif](https://www.screentogif.com/) for Windows
 
