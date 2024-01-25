@@ -22,6 +22,10 @@ The following **optional** features are implemented:
 
 Here's a walkthrough of implemented features:
 [Video Walkthrough](https://imgur.com/a/EMbLwxt.gif)
+<img src='https://imgur.com/a/EMbLwxt.gif//s.imgur.com/min/embed.js' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+
+<a href="//imgur.com/a/EMbLwxt">FullStack-Project-1</a>
+</blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
 
 GIF created with [ScreenToGif](https://www.screentogif.com/) for Windows
 
