@@ -21,8 +21,7 @@ The following **optional** features are implemented:
 ## Video Walkthrough
 
 Here's a walkthrough of implemented features:
-[Video Walkthrough]('https://imgur.com/a/EMbLwxt')
-<img src='https://imgur.com/a/EMbLwxt.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+[Video Walkthrough]('https://imgur.com/a/EMbLwxt.gif')
 
 GIF created with [ScreenToGif](https://www.screentogif.com/) for Windows
 
